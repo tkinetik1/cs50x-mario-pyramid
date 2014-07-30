@@ -1,7 +1,8 @@
+//cs50x C Problem Set 1 - Tyson Frederick - 7/29/14 (last update)
+
 #include <stdio.h>
 #include <cs50.h>
 
-//cs50x C Problem Set 1 - Tyson Frederick - 7/29/14 (last update)
 int main (void)
 {
         
